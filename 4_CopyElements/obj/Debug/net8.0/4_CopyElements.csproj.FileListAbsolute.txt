@@ -1,0 +1,14 @@
+D:\Codes\Array_Practice\4_CopyElements\bin\Debug\net8.0\4_CopyElements.exe
+D:\Codes\Array_Practice\4_CopyElements\bin\Debug\net8.0\4_CopyElements.deps.json
+D:\Codes\Array_Practice\4_CopyElements\bin\Debug\net8.0\4_CopyElements.runtimeconfig.json
+D:\Codes\Array_Practice\4_CopyElements\bin\Debug\net8.0\4_CopyElements.dll
+D:\Codes\Array_Practice\4_CopyElements\bin\Debug\net8.0\4_CopyElements.pdb
+D:\Codes\Array_Practice\4_CopyElements\obj\Debug\net8.0\4_CopyElements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\Array_Practice\4_CopyElements\obj\Debug\net8.0\4_CopyElements.AssemblyInfoInputs.cache
+D:\Codes\Array_Practice\4_CopyElements\obj\Debug\net8.0\4_CopyElements.AssemblyInfo.cs
+D:\Codes\Array_Practice\4_CopyElements\obj\Debug\net8.0\4_CopyElements.csproj.CoreCompileInputs.cache
+D:\Codes\Array_Practice\4_CopyElements\obj\Debug\net8.0\4_CopyElements.dll
+D:\Codes\Array_Practice\4_CopyElements\obj\Debug\net8.0\refint\4_CopyElements.dll
+D:\Codes\Array_Practice\4_CopyElements\obj\Debug\net8.0\4_CopyElements.pdb
+D:\Codes\Array_Practice\4_CopyElements\obj\Debug\net8.0\4_CopyElements.genruntimeconfig.cache
+D:\Codes\Array_Practice\4_CopyElements\obj\Debug\net8.0\ref\4_CopyElements.dll

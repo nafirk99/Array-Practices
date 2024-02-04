@@ -1,0 +1,14 @@
+D:\Codes\Array_Practice\ArrayMinElement\bin\Debug\net8.0\ArrayMinElement.exe
+D:\Codes\Array_Practice\ArrayMinElement\bin\Debug\net8.0\ArrayMinElement.deps.json
+D:\Codes\Array_Practice\ArrayMinElement\bin\Debug\net8.0\ArrayMinElement.runtimeconfig.json
+D:\Codes\Array_Practice\ArrayMinElement\bin\Debug\net8.0\ArrayMinElement.dll
+D:\Codes\Array_Practice\ArrayMinElement\bin\Debug\net8.0\ArrayMinElement.pdb
+D:\Codes\Array_Practice\ArrayMinElement\obj\Debug\net8.0\ArrayMinElement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\Array_Practice\ArrayMinElement\obj\Debug\net8.0\ArrayMinElement.AssemblyInfoInputs.cache
+D:\Codes\Array_Practice\ArrayMinElement\obj\Debug\net8.0\ArrayMinElement.AssemblyInfo.cs
+D:\Codes\Array_Practice\ArrayMinElement\obj\Debug\net8.0\ArrayMinElement.csproj.CoreCompileInputs.cache
+D:\Codes\Array_Practice\ArrayMinElement\obj\Debug\net8.0\ArrayMinElement.dll
+D:\Codes\Array_Practice\ArrayMinElement\obj\Debug\net8.0\refint\ArrayMinElement.dll
+D:\Codes\Array_Practice\ArrayMinElement\obj\Debug\net8.0\ArrayMinElement.pdb
+D:\Codes\Array_Practice\ArrayMinElement\obj\Debug\net8.0\ArrayMinElement.genruntimeconfig.cache
+D:\Codes\Array_Practice\ArrayMinElement\obj\Debug\net8.0\ref\ArrayMinElement.dll

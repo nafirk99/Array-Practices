@@ -1,0 +1,14 @@
+D:\Codes\Array_Practice\3_SumOfAllElements\bin\Debug\net8.0\3_SumOfAllElements.exe
+D:\Codes\Array_Practice\3_SumOfAllElements\bin\Debug\net8.0\3_SumOfAllElements.deps.json
+D:\Codes\Array_Practice\3_SumOfAllElements\bin\Debug\net8.0\3_SumOfAllElements.runtimeconfig.json
+D:\Codes\Array_Practice\3_SumOfAllElements\bin\Debug\net8.0\3_SumOfAllElements.dll
+D:\Codes\Array_Practice\3_SumOfAllElements\bin\Debug\net8.0\3_SumOfAllElements.pdb
+D:\Codes\Array_Practice\3_SumOfAllElements\obj\Debug\net8.0\3_SumOfAllElements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\Array_Practice\3_SumOfAllElements\obj\Debug\net8.0\3_SumOfAllElements.AssemblyInfoInputs.cache
+D:\Codes\Array_Practice\3_SumOfAllElements\obj\Debug\net8.0\3_SumOfAllElements.AssemblyInfo.cs
+D:\Codes\Array_Practice\3_SumOfAllElements\obj\Debug\net8.0\3_SumOfAllElements.csproj.CoreCompileInputs.cache
+D:\Codes\Array_Practice\3_SumOfAllElements\obj\Debug\net8.0\3_SumOfAllElements.dll
+D:\Codes\Array_Practice\3_SumOfAllElements\obj\Debug\net8.0\refint\3_SumOfAllElements.dll
+D:\Codes\Array_Practice\3_SumOfAllElements\obj\Debug\net8.0\3_SumOfAllElements.pdb
+D:\Codes\Array_Practice\3_SumOfAllElements\obj\Debug\net8.0\3_SumOfAllElements.genruntimeconfig.cache
+D:\Codes\Array_Practice\3_SumOfAllElements\obj\Debug\net8.0\ref\3_SumOfAllElements.dll

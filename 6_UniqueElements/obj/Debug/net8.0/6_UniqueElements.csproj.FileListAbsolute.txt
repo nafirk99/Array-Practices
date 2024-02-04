@@ -1,0 +1,14 @@
+D:\Codes\Array_Practice\6_UniqueElements\bin\Debug\net8.0\6_UniqueElements.exe
+D:\Codes\Array_Practice\6_UniqueElements\bin\Debug\net8.0\6_UniqueElements.deps.json
+D:\Codes\Array_Practice\6_UniqueElements\bin\Debug\net8.0\6_UniqueElements.runtimeconfig.json
+D:\Codes\Array_Practice\6_UniqueElements\bin\Debug\net8.0\6_UniqueElements.dll
+D:\Codes\Array_Practice\6_UniqueElements\bin\Debug\net8.0\6_UniqueElements.pdb
+D:\Codes\Array_Practice\6_UniqueElements\obj\Debug\net8.0\6_UniqueElements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\Array_Practice\6_UniqueElements\obj\Debug\net8.0\6_UniqueElements.AssemblyInfoInputs.cache
+D:\Codes\Array_Practice\6_UniqueElements\obj\Debug\net8.0\6_UniqueElements.AssemblyInfo.cs
+D:\Codes\Array_Practice\6_UniqueElements\obj\Debug\net8.0\6_UniqueElements.csproj.CoreCompileInputs.cache
+D:\Codes\Array_Practice\6_UniqueElements\obj\Debug\net8.0\6_UniqueElements.dll
+D:\Codes\Array_Practice\6_UniqueElements\obj\Debug\net8.0\refint\6_UniqueElements.dll
+D:\Codes\Array_Practice\6_UniqueElements\obj\Debug\net8.0\6_UniqueElements.pdb
+D:\Codes\Array_Practice\6_UniqueElements\obj\Debug\net8.0\6_UniqueElements.genruntimeconfig.cache
+D:\Codes\Array_Practice\6_UniqueElements\obj\Debug\net8.0\ref\6_UniqueElements.dll

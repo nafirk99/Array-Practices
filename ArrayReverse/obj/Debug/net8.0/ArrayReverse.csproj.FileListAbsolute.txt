@@ -1,0 +1,14 @@
+D:\Codes\Array_Practice\ArrayReverse\bin\Debug\net8.0\ArrayReverse.exe
+D:\Codes\Array_Practice\ArrayReverse\bin\Debug\net8.0\ArrayReverse.deps.json
+D:\Codes\Array_Practice\ArrayReverse\bin\Debug\net8.0\ArrayReverse.runtimeconfig.json
+D:\Codes\Array_Practice\ArrayReverse\bin\Debug\net8.0\ArrayReverse.dll
+D:\Codes\Array_Practice\ArrayReverse\bin\Debug\net8.0\ArrayReverse.pdb
+D:\Codes\Array_Practice\ArrayReverse\obj\Debug\net8.0\ArrayReverse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\Array_Practice\ArrayReverse\obj\Debug\net8.0\ArrayReverse.AssemblyInfoInputs.cache
+D:\Codes\Array_Practice\ArrayReverse\obj\Debug\net8.0\ArrayReverse.AssemblyInfo.cs
+D:\Codes\Array_Practice\ArrayReverse\obj\Debug\net8.0\ArrayReverse.csproj.CoreCompileInputs.cache
+D:\Codes\Array_Practice\ArrayReverse\obj\Debug\net8.0\ArrayReverse.dll
+D:\Codes\Array_Practice\ArrayReverse\obj\Debug\net8.0\refint\ArrayReverse.dll
+D:\Codes\Array_Practice\ArrayReverse\obj\Debug\net8.0\ArrayReverse.pdb
+D:\Codes\Array_Practice\ArrayReverse\obj\Debug\net8.0\ArrayReverse.genruntimeconfig.cache
+D:\Codes\Array_Practice\ArrayReverse\obj\Debug\net8.0\ref\ArrayReverse.dll

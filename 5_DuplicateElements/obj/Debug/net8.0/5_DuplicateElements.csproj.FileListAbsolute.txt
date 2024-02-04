@@ -1,0 +1,14 @@
+D:\Codes\Array_Practice\5_DuplicateElements\bin\Debug\net8.0\5_DuplicateElements.exe
+D:\Codes\Array_Practice\5_DuplicateElements\bin\Debug\net8.0\5_DuplicateElements.deps.json
+D:\Codes\Array_Practice\5_DuplicateElements\bin\Debug\net8.0\5_DuplicateElements.runtimeconfig.json
+D:\Codes\Array_Practice\5_DuplicateElements\bin\Debug\net8.0\5_DuplicateElements.dll
+D:\Codes\Array_Practice\5_DuplicateElements\bin\Debug\net8.0\5_DuplicateElements.pdb
+D:\Codes\Array_Practice\5_DuplicateElements\obj\Debug\net8.0\5_DuplicateElements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\Array_Practice\5_DuplicateElements\obj\Debug\net8.0\5_DuplicateElements.AssemblyInfoInputs.cache
+D:\Codes\Array_Practice\5_DuplicateElements\obj\Debug\net8.0\5_DuplicateElements.AssemblyInfo.cs
+D:\Codes\Array_Practice\5_DuplicateElements\obj\Debug\net8.0\5_DuplicateElements.csproj.CoreCompileInputs.cache
+D:\Codes\Array_Practice\5_DuplicateElements\obj\Debug\net8.0\5_DuplicateElements.dll
+D:\Codes\Array_Practice\5_DuplicateElements\obj\Debug\net8.0\refint\5_DuplicateElements.dll
+D:\Codes\Array_Practice\5_DuplicateElements\obj\Debug\net8.0\5_DuplicateElements.pdb
+D:\Codes\Array_Practice\5_DuplicateElements\obj\Debug\net8.0\5_DuplicateElements.genruntimeconfig.cache
+D:\Codes\Array_Practice\5_DuplicateElements\obj\Debug\net8.0\ref\5_DuplicateElements.dll
