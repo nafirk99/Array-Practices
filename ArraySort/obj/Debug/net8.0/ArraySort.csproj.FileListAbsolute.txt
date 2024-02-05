@@ -1,0 +1,15 @@
+D:\Codes\Array-Practices\ArraySort\bin\Debug\net8.0\ArraySort.exe
+D:\Codes\Array-Practices\ArraySort\bin\Debug\net8.0\ArraySort.deps.json
+D:\Codes\Array-Practices\ArraySort\bin\Debug\net8.0\ArraySort.runtimeconfig.json
+D:\Codes\Array-Practices\ArraySort\bin\Debug\net8.0\ArraySort.dll
+D:\Codes\Array-Practices\ArraySort\bin\Debug\net8.0\ArraySort.pdb
+D:\Codes\Array-Practices\ArraySort\obj\Debug\net8.0\ArraySort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\Array-Practices\ArraySort\obj\Debug\net8.0\ArraySort.AssemblyInfoInputs.cache
+D:\Codes\Array-Practices\ArraySort\obj\Debug\net8.0\ArraySort.AssemblyInfo.cs
+D:\Codes\Array-Practices\ArraySort\obj\Debug\net8.0\ArraySort.csproj.CoreCompileInputs.cache
+D:\Codes\Array-Practices\ArraySort\obj\Debug\net8.0\ArraySort.sourcelink.json
+D:\Codes\Array-Practices\ArraySort\obj\Debug\net8.0\ArraySort.dll
+D:\Codes\Array-Practices\ArraySort\obj\Debug\net8.0\refint\ArraySort.dll
+D:\Codes\Array-Practices\ArraySort\obj\Debug\net8.0\ArraySort.pdb
+D:\Codes\Array-Practices\ArraySort\obj\Debug\net8.0\ArraySort.genruntimeconfig.cache
+D:\Codes\Array-Practices\ArraySort\obj\Debug\net8.0\ref\ArraySort.dll

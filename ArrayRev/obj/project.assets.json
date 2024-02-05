@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Codes\\Array_Practice\\ArrayRev\\ArrayRev.csproj",
+      "projectUniqueName": "D:\\Codes\\Array-Practices\\ArrayRev\\ArrayRev.csproj",
       "projectName": "ArrayRev",
-      "projectPath": "D:\\Codes\\Array_Practice\\ArrayRev\\ArrayRev.csproj",
+      "projectPath": "D:\\Codes\\Array-Practices\\ArrayRev\\ArrayRev.csproj",
       "packagesPath": "C:\\Users\\plicl\\.nuget\\packages\\",
-      "outputPath": "D:\\Codes\\Array_Practice\\ArrayRev\\obj\\",
+      "outputPath": "D:\\Codes\\Array-Practices\\ArrayRev\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\plicl\\AppData\\Roaming\\NuGet\\NuGet.Config",

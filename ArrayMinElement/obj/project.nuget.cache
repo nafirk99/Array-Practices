@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4Q5DIsAg0K8H4wL+bofTIcDsl/8i/iw7s/OQJW+RAWzScGpGd6zJEBvL0q7u4a96VNpcDLSRo2+Pjn9oxjM18Q==",
+  "dgSpecHash": "yJPMC/RhOnWATK28R2fNeEY49k0vudGkN9SIMompJws8d7CQGel50nOhSs8lYwEtaXwuUIiHX8islDuKeTrkAQ==",
   "success": true,
-  "projectFilePath": "D:\\Codes\\Array_Practice\\ArrayMinElement\\ArrayMinElement.csproj",
+  "projectFilePath": "D:\\Codes\\Array-Practices\\ArrayMinElement\\ArrayMinElement.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

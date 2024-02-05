@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Codes\\Array_Practice\\ArrayMinElement\\ArrayMinElement.csproj",
+      "projectUniqueName": "D:\\Codes\\Array-Practices\\ArrayMinElement\\ArrayMinElement.csproj",
       "projectName": "ArrayMinElement",
-      "projectPath": "D:\\Codes\\Array_Practice\\ArrayMinElement\\ArrayMinElement.csproj",
+      "projectPath": "D:\\Codes\\Array-Practices\\ArrayMinElement\\ArrayMinElement.csproj",
       "packagesPath": "C:\\Users\\plicl\\.nuget\\packages\\",
-      "outputPath": "D:\\Codes\\Array_Practice\\ArrayMinElement\\obj\\",
+      "outputPath": "D:\\Codes\\Array-Practices\\ArrayMinElement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\plicl\\AppData\\Roaming\\NuGet\\NuGet.Config",

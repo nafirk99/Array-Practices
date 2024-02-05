@@ -1,0 +1,15 @@
+D:\Codes\Array-Practices\ArrayRev\bin\Debug\net8.0\ArrayRev.exe
+D:\Codes\Array-Practices\ArrayRev\bin\Debug\net8.0\ArrayRev.deps.json
+D:\Codes\Array-Practices\ArrayRev\bin\Debug\net8.0\ArrayRev.runtimeconfig.json
+D:\Codes\Array-Practices\ArrayRev\bin\Debug\net8.0\ArrayRev.dll
+D:\Codes\Array-Practices\ArrayRev\bin\Debug\net8.0\ArrayRev.pdb
+D:\Codes\Array-Practices\ArrayRev\obj\Debug\net8.0\ArrayRev.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\Array-Practices\ArrayRev\obj\Debug\net8.0\ArrayRev.AssemblyInfoInputs.cache
+D:\Codes\Array-Practices\ArrayRev\obj\Debug\net8.0\ArrayRev.AssemblyInfo.cs
+D:\Codes\Array-Practices\ArrayRev\obj\Debug\net8.0\ArrayRev.csproj.CoreCompileInputs.cache
+D:\Codes\Array-Practices\ArrayRev\obj\Debug\net8.0\ArrayRev.sourcelink.json
+D:\Codes\Array-Practices\ArrayRev\obj\Debug\net8.0\ArrayRev.dll
+D:\Codes\Array-Practices\ArrayRev\obj\Debug\net8.0\refint\ArrayRev.dll
+D:\Codes\Array-Practices\ArrayRev\obj\Debug\net8.0\ArrayRev.pdb
+D:\Codes\Array-Practices\ArrayRev\obj\Debug\net8.0\ArrayRev.genruntimeconfig.cache
+D:\Codes\Array-Practices\ArrayRev\obj\Debug\net8.0\ref\ArrayRev.dll
