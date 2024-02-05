@@ -1,0 +1,15 @@
+D:\Codes\Array-Practices\ArraySortDec\bin\Debug\net8.0\ArraySortDec.exe
+D:\Codes\Array-Practices\ArraySortDec\bin\Debug\net8.0\ArraySortDec.deps.json
+D:\Codes\Array-Practices\ArraySortDec\bin\Debug\net8.0\ArraySortDec.runtimeconfig.json
+D:\Codes\Array-Practices\ArraySortDec\bin\Debug\net8.0\ArraySortDec.dll
+D:\Codes\Array-Practices\ArraySortDec\bin\Debug\net8.0\ArraySortDec.pdb
+D:\Codes\Array-Practices\ArraySortDec\obj\Debug\net8.0\ArraySortDec.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\Array-Practices\ArraySortDec\obj\Debug\net8.0\ArraySortDec.AssemblyInfoInputs.cache
+D:\Codes\Array-Practices\ArraySortDec\obj\Debug\net8.0\ArraySortDec.AssemblyInfo.cs
+D:\Codes\Array-Practices\ArraySortDec\obj\Debug\net8.0\ArraySortDec.csproj.CoreCompileInputs.cache
+D:\Codes\Array-Practices\ArraySortDec\obj\Debug\net8.0\ArraySortDec.sourcelink.json
+D:\Codes\Array-Practices\ArraySortDec\obj\Debug\net8.0\ArraySortDec.dll
+D:\Codes\Array-Practices\ArraySortDec\obj\Debug\net8.0\refint\ArraySortDec.dll
+D:\Codes\Array-Practices\ArraySortDec\obj\Debug\net8.0\ArraySortDec.pdb
+D:\Codes\Array-Practices\ArraySortDec\obj\Debug\net8.0\ArraySortDec.genruntimeconfig.cache
+D:\Codes\Array-Practices\ArraySortDec\obj\Debug\net8.0\ref\ArraySortDec.dll
