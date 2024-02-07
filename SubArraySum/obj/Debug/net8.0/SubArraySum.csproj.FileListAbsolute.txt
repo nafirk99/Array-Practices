@@ -1,0 +1,15 @@
+D:\Codes\Array-Practices\SubArraySum\bin\Debug\net8.0\SubArraySum.exe
+D:\Codes\Array-Practices\SubArraySum\bin\Debug\net8.0\SubArraySum.deps.json
+D:\Codes\Array-Practices\SubArraySum\bin\Debug\net8.0\SubArraySum.runtimeconfig.json
+D:\Codes\Array-Practices\SubArraySum\bin\Debug\net8.0\SubArraySum.dll
+D:\Codes\Array-Practices\SubArraySum\bin\Debug\net8.0\SubArraySum.pdb
+D:\Codes\Array-Practices\SubArraySum\obj\Debug\net8.0\SubArraySum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\Array-Practices\SubArraySum\obj\Debug\net8.0\SubArraySum.AssemblyInfoInputs.cache
+D:\Codes\Array-Practices\SubArraySum\obj\Debug\net8.0\SubArraySum.AssemblyInfo.cs
+D:\Codes\Array-Practices\SubArraySum\obj\Debug\net8.0\SubArraySum.csproj.CoreCompileInputs.cache
+D:\Codes\Array-Practices\SubArraySum\obj\Debug\net8.0\SubArraySum.sourcelink.json
+D:\Codes\Array-Practices\SubArraySum\obj\Debug\net8.0\SubArraySum.dll
+D:\Codes\Array-Practices\SubArraySum\obj\Debug\net8.0\refint\SubArraySum.dll
+D:\Codes\Array-Practices\SubArraySum\obj\Debug\net8.0\SubArraySum.pdb
+D:\Codes\Array-Practices\SubArraySum\obj\Debug\net8.0\SubArraySum.genruntimeconfig.cache
+D:\Codes\Array-Practices\SubArraySum\obj\Debug\net8.0\ref\SubArraySum.dll

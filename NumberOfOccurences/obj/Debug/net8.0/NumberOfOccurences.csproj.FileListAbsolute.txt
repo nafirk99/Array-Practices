@@ -1,0 +1,15 @@
+D:\Codes\Array-Practices\NumberOfOccurences\bin\Debug\net8.0\NumberOfOccurences.exe
+D:\Codes\Array-Practices\NumberOfOccurences\bin\Debug\net8.0\NumberOfOccurences.deps.json
+D:\Codes\Array-Practices\NumberOfOccurences\bin\Debug\net8.0\NumberOfOccurences.runtimeconfig.json
+D:\Codes\Array-Practices\NumberOfOccurences\bin\Debug\net8.0\NumberOfOccurences.dll
+D:\Codes\Array-Practices\NumberOfOccurences\bin\Debug\net8.0\NumberOfOccurences.pdb
+D:\Codes\Array-Practices\NumberOfOccurences\obj\Debug\net8.0\NumberOfOccurences.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\Array-Practices\NumberOfOccurences\obj\Debug\net8.0\NumberOfOccurences.AssemblyInfoInputs.cache
+D:\Codes\Array-Practices\NumberOfOccurences\obj\Debug\net8.0\NumberOfOccurences.AssemblyInfo.cs
+D:\Codes\Array-Practices\NumberOfOccurences\obj\Debug\net8.0\NumberOfOccurences.csproj.CoreCompileInputs.cache
+D:\Codes\Array-Practices\NumberOfOccurences\obj\Debug\net8.0\NumberOfOccurences.sourcelink.json
+D:\Codes\Array-Practices\NumberOfOccurences\obj\Debug\net8.0\NumberOfOccurences.dll
+D:\Codes\Array-Practices\NumberOfOccurences\obj\Debug\net8.0\refint\NumberOfOccurences.dll
+D:\Codes\Array-Practices\NumberOfOccurences\obj\Debug\net8.0\NumberOfOccurences.pdb
+D:\Codes\Array-Practices\NumberOfOccurences\obj\Debug\net8.0\NumberOfOccurences.genruntimeconfig.cache
+D:\Codes\Array-Practices\NumberOfOccurences\obj\Debug\net8.0\ref\NumberOfOccurences.dll

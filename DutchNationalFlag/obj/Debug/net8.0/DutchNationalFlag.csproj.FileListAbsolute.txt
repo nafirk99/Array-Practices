@@ -1,0 +1,15 @@
+D:\Codes\Array-Practices\DutchNationalFlag\bin\Debug\net8.0\DutchNationalFlag.exe
+D:\Codes\Array-Practices\DutchNationalFlag\bin\Debug\net8.0\DutchNationalFlag.deps.json
+D:\Codes\Array-Practices\DutchNationalFlag\bin\Debug\net8.0\DutchNationalFlag.runtimeconfig.json
+D:\Codes\Array-Practices\DutchNationalFlag\bin\Debug\net8.0\DutchNationalFlag.dll
+D:\Codes\Array-Practices\DutchNationalFlag\bin\Debug\net8.0\DutchNationalFlag.pdb
+D:\Codes\Array-Practices\DutchNationalFlag\obj\Debug\net8.0\DutchNationalFlag.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\Array-Practices\DutchNationalFlag\obj\Debug\net8.0\DutchNationalFlag.AssemblyInfoInputs.cache
+D:\Codes\Array-Practices\DutchNationalFlag\obj\Debug\net8.0\DutchNationalFlag.AssemblyInfo.cs
+D:\Codes\Array-Practices\DutchNationalFlag\obj\Debug\net8.0\DutchNationalFlag.csproj.CoreCompileInputs.cache
+D:\Codes\Array-Practices\DutchNationalFlag\obj\Debug\net8.0\DutchNationalFlag.sourcelink.json
+D:\Codes\Array-Practices\DutchNationalFlag\obj\Debug\net8.0\DutchNationalFlag.dll
+D:\Codes\Array-Practices\DutchNationalFlag\obj\Debug\net8.0\refint\DutchNationalFlag.dll
+D:\Codes\Array-Practices\DutchNationalFlag\obj\Debug\net8.0\DutchNationalFlag.pdb
+D:\Codes\Array-Practices\DutchNationalFlag\obj\Debug\net8.0\DutchNationalFlag.genruntimeconfig.cache
+D:\Codes\Array-Practices\DutchNationalFlag\obj\Debug\net8.0\ref\DutchNationalFlag.dll
